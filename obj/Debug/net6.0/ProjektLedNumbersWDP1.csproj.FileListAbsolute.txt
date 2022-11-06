@@ -1,0 +1,15 @@
+E:\Studia\Projekty\ProjektLedNumbersWDP1\bin\Debug\net6.0\ProjektLedNumbersWDP1.exe
+E:\Studia\Projekty\ProjektLedNumbersWDP1\bin\Debug\net6.0\ProjektLedNumbersWDP1.deps.json
+E:\Studia\Projekty\ProjektLedNumbersWDP1\bin\Debug\net6.0\ProjektLedNumbersWDP1.runtimeconfig.json
+E:\Studia\Projekty\ProjektLedNumbersWDP1\bin\Debug\net6.0\ProjektLedNumbersWDP1.dll
+E:\Studia\Projekty\ProjektLedNumbersWDP1\bin\Debug\net6.0\ref\ProjektLedNumbersWDP1.dll
+E:\Studia\Projekty\ProjektLedNumbersWDP1\bin\Debug\net6.0\ProjektLedNumbersWDP1.pdb
+E:\Studia\Projekty\ProjektLedNumbersWDP1\obj\Debug\net6.0\ProjektLedNumbersWDP1.csproj.AssemblyReference.cache
+E:\Studia\Projekty\ProjektLedNumbersWDP1\obj\Debug\net6.0\ProjektLedNumbersWDP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\Projekty\ProjektLedNumbersWDP1\obj\Debug\net6.0\ProjektLedNumbersWDP1.AssemblyInfoInputs.cache
+E:\Studia\Projekty\ProjektLedNumbersWDP1\obj\Debug\net6.0\ProjektLedNumbersWDP1.AssemblyInfo.cs
+E:\Studia\Projekty\ProjektLedNumbersWDP1\obj\Debug\net6.0\ProjektLedNumbersWDP1.csproj.CoreCompileInputs.cache
+E:\Studia\Projekty\ProjektLedNumbersWDP1\obj\Debug\net6.0\ProjektLedNumbersWDP1.dll
+E:\Studia\Projekty\ProjektLedNumbersWDP1\obj\Debug\net6.0\ref\ProjektLedNumbersWDP1.dll
+E:\Studia\Projekty\ProjektLedNumbersWDP1\obj\Debug\net6.0\ProjektLedNumbersWDP1.pdb
+E:\Studia\Projekty\ProjektLedNumbersWDP1\obj\Debug\net6.0\ProjektLedNumbersWDP1.genruntimeconfig.cache
